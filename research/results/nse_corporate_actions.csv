@@ -1,0 +1,593 @@
+symbol,nse_symbol,ex_date,subject,factor,type,raw_move_on_ex_date
+ABB,ABB,2019-12-20,Demerger,0.897019,demerger (price-implied),-0.145
+ADANIENT,ADANIENT,2009-12-10,Bonus 1:1,0.5,split/bonus,-0.4944
+ADANIENT,ADANIENT,2015-06-03,Scheme Of Arrangement,0.9,demerger (price-implied),-0.8277
+ADANIENT,ADANIENT,2018-04-05,Scheme Of Arrangement,0.878178,demerger (price-implied),-0.0238
+ADANIENT,ADANIENT,2018-09-06,Scheme Of Arrangement,0.711069,demerger (price-implied),-0.224
+ADANIENT,ADANIENT,2025-11-17,Rights 3:25 @ Premium Rs 1799/-,0.969442,rights (TERP),-0.0218
+ADANIPORTS,ADANIPORTS,2010-09-23,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8022
+APOLLOHOSP,APOLLOHOSP,2010-09-02,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.5033
+ASIANPAINT,ASIANPAINT,2013-07-30,Face Value Split Rs 10 To Re 1,0.1,split/bonus,-0.9002
+AUROPHARMA,AUROPHARMA,2011-02-10,Face Value Split From Rs.5/- To Re.1/-,0.2,split/bonus,-0.7921
+AUROPHARMA,AUROPHARMA,2015-07-20,Bonus 1:1,0.5,split/bonus,-0.4913
+AXISBANK,AXISBANK,2014-07-28,Face Value Split From Rs 10/- To Rs 2/- Per Share,0.2,split/bonus,-0.8009
+BAJAJ-AUTO,BAJAJ-AUTO,2010-09-08,Bonus 1:1,0.5,split/bonus,-0.506
+BAJAJFINSV,BAJAJFINSV,2012-09-06,Rights 1:10 @ Premium Rs.645/- Per Share,0.981899,rights (TERP),-0.0277
+BAJAJFINSV,BAJAJFINSV,2022-09-13,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.8959
+BAJAJFINSV,BAJAJFINSV,2022-09-13,Bonus 1:1,0.5,split/bonus,-0.8959
+BAJFINANCE,BAJFINANCE,2013-01-23,Rights 3:19 @ Premium Rs 1090 Per Share,0.970604,rights (TERP),-0.05
+BAJFINANCE,BAJFINANCE,2016-09-08,Bonus 1:1/Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.1,split/bonus,-0.8979
+BAJFINANCE,BAJFINANCE,2025-06-16,Bonus 4:1,0.2,split/bonus,-0.8995
+BAJFINANCE,BAJFINANCE,2025-06-16,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.8995
+BANKBARODA,BANKBARODA,2015-01-22,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8015
+BEL,BEL,2015-09-14,Bonus 2:1,0.333333,split/bonus,-0.6726
+BEL,BEL,2017-03-16,Face Value Split From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8948
+BEL,BEL,2017-09-28,Bonus 1:10,0.909091,split/bonus,-0.0752
+BEL,BEL,2022-09-15,Bonus 2:1,0.333333,split/bonus,-0.6692
+BHARTIARTL,BHARTIARTL,2019-04-23,Rights 19:67 @ Premium Rs 215 Per Share,0.915017,rights (TERP),-0.0942
+BHARTIARTL,BHARTIARTL,2021-09-27,Rights 1:14 @ Premium Rs 530/-,0.98112,rights (TERP),-0.0228
+BHEL,BHEL,2011-10-03,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8049
+BHEL,BHEL,2017-09-28,Bonus 1:2,0.666667,split/bonus,-0.3369
+BPCL,BPCL,2012-07-13,Annual General Meeting/ Dividend Rs 11/- Per Share/ Bonus 1:1,0.5,split/bonus,-0.5079
+BPCL,BPCL,2016-07-13,Bonus 1:1,0.5,split/bonus,-0.5131
+BPCL,BPCL,2017-07-13,Bonus 1:2,0.666667,split/bonus,-0.3293
+BPCL,BPCL,2024-06-21,Bonus 1:1,0.5,split/bonus,-0.5088
+BRITANNIA,BRITANNIA,2010-09-08,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7726
+BRITANNIA,BRITANNIA,2018-11-29,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4914
+BSE,BSE,2022-03-21,Bonus 2:1,0.333333,split/bonus,-0.6681
+BSE,BSE,2025-05-23,Bonus 2:1,0.333333,split/bonus,-0.6501
+DIVISLAB,DIVISLAB,2015-09-23,Bonus 1:1,0.5,split/bonus,-0.4954
+DRREDDY,DRREDDY,2024-10-28,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.7987
+EICHERMOT,EICHERMOT,2020-08-24,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8997
+GAIL,GAIL,2017-03-09,Bonus 1:3,0.75,split/bonus,-0.2689
+GAIL,GAIL,2018-03-27,Bonus 1:3,0.75,split/bonus,-0.2451
+GAIL,GAIL,2019-07-09,Bonus 1:1,0.5,split/bonus,-0.5131
+GAIL,GAIL,2022-09-06,Bonus 1:2,0.666667,split/bonus,-0.3196
+GRASIM,GRASIM,2010-05-26,Scheme Of Arrangement,0.852954,demerger (price-implied),-0.2071
+GRASIM,GRASIM,2016-10-06,Face Value Split From Rs 10 To Re 2,0.2,split/bonus,-0.7954
+GRASIM,GRASIM,2017-07-19,Scheme Of Arrangement,0.818206,demerger (price-implied),-0.1971
+GRASIM,GRASIM,2024-01-10,Rights 6:179 @ Premium Rs 1810/-,0.996008,rights (TERP),0.0022
+HCLTECH,HCLTECH,2015-03-19,Bonus 1 : 1,0.5,split/bonus,-0.5118
+HCLTECH,HCLTECH,2019-12-05,Bonus 1:1,0.5,split/bonus,-0.5016
+HDFC,HDFC,2010-08-18,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7935
+HDFCBANK,HDFCBANK,2011-07-15,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.798
+HDFCBANK,HDFCBANK,2019-09-19,Face Value Split (Sub-Division) - From Rs 2 Per Share To Rs 1 Per Share,0.5,split/bonus,-0.4967
+HDFCBANK,HDFCBANK,2025-08-26,Bonus 1:1,0.5,split/bonus,-0.5044
+HINDPETRO,HINDPETRO,2016-09-14,Bonus 2:1,0.333333,split/bonus,-0.6673
+HINDPETRO,HINDPETRO,2017-07-11,Bonus 1:2/ Dividend - Rs 1.10 Per Share,0.666667,split/bonus,-0.3359
+HINDPETRO,HINDPETRO,2024-06-21,Bonus 1:2,0.666667,split/bonus,-0.3493
+ICICIBANK,ICICIBANK,2014-12-04,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7981
+ICICIBANK,ICICIBANK,2017-06-20,Annual General Meeting/Dividend - Rs 2.50 Per Share/Bonus 1:10 (Revised),0.909091,split/bonus,-0.0878
+IDEA,IDEA,2019-04-01,Rights 87:38 @ Premium Of Rs 2.50 Per Share,0.364,rights (TERP),-0.3879
+INFY,INFY,2014-12-02,Bonus 1:1,0.5,split/bonus,-0.5111
+INFY,INFY,2015-06-15,Annual General Meeting/ Dividend - Rs 29.50/- Per Share And Bonus 1:1,0.5,split/bonus,-0.4985
+INFY,INFY,2018-09-04,Bonus 1:1,0.5,split/bonus,-0.486
+IOC,IOC,2009-10-29,Bonus 1:1,0.5,split/bonus,-0.5104
+IOC,IOC,2016-10-18,Bonus 1:1,0.5,split/bonus,-0.4991
+IOC,IOC,2018-03-15,Bonus 1:1,0.5,split/bonus,-0.5139
+IOC,IOC,2022-06-30,Bonus 1:2,0.666667,split/bonus,-0.3238
+ITC,ITC,2010-08-03,Bonus 1:1,0.5,split/bonus,-0.5064
+ITC,ITC,2016-07-01,Bonus 1:2,0.666667,split/bonus,-0.315
+ITC,ITC,2025-01-06,Demerger,0.946013,demerger (price-implied),-0.0809
+JPASSOCIAT,JPASSOCIAT,2009-12-17,Bonus 1:2,0.666667,split/bonus,-0.3124
+KOTAKBANK,KOTAKBANK,2010-09-13,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.4741
+KOTAKBANK,KOTAKBANK,2015-07-08,Bonus 1: 1,0.5,split/bonus,-0.504
+KOTAKBANK,KOTAKBANK,2026-01-14,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.8026
+LT,LT,2013-07-11,Bonus 1:2,0.666667,split/bonus,-0.3175
+LT,LT,2017-07-13,Bonus 1:2,0.666667,split/bonus,-0.3245
+LUPIN,LUPIN,2010-08-27,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8003
+M&M,M&M,2010-03-29,Fv Split Rs.10 To Rs.5,0.5,split/bonus,-0.4878
+M&M,M&M,2017-12-21,Bonus 1:1,0.5,split/bonus,-0.5186
+NESTLEIND,NESTLEIND,2024-01-05,Face Value Split (Sub-Division) - From Rs10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9017
+NESTLEIND,NESTLEIND,2025-08-08,Bonus 1:1,0.5,split/bonus,-0.5093
+NMDC,NMDC,2022-10-27,Demerger,0.705545,demerger (price-implied),-0.2023
+NMDC,NMDC,2024-12-27,Bonus 2:1,0.333333,split/bonus,-0.6768
+NTPC,NTPC,2019-03-19,Bonus 1:5,0.833333,split/bonus,-0.1502
+ONGC,ONGC,2011-02-08,Bonus 1:1 And Face Value Split From Rs.10/- To Rs.5/-,0.25,split/bonus,-0.7639
+ONGC,ONGC,2016-12-15,Bonus 1: 2,0.666667,split/bonus,-0.3238
+PNB,PNB,2014-12-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7919
+POWERGRID,POWERGRID,2021-07-29,Bonus 1:3,0.75,split/bonus,-0.2661
+POWERGRID,POWERGRID,2023-09-12,Bonus 1:3,0.75,split/bonus,-0.2767
+RELCAPITAL,RELCAPITAL,2017-09-05,Scheme Of Arrangement,0.840254,demerger (price-implied),-0.0835
+RELIANCE,RELIANCE,2009-11-26,Bonus 1:1,0.5,split/bonus,-0.5153
+RELIANCE,RELIANCE,2017-09-07,Bonus 1:1,0.5,split/bonus,-0.5028
+RELIANCE,RELIANCE,2020-05-13,Rights 1:15 @ Premium Rs 1247,0.990187,rights (TERP),0.0116
+RELIANCE,RELIANCE,2023-07-20,Demerger,0.907859,demerger (price-implied),-0.0781
+RELIANCE,RELIANCE,2024-10-28,Bonus 1:1,0.5,split/bonus,-0.4976
+SAMMAANCAP,SAMMAANCAP,2024-02-01,Rights 1:2 @ Premium Rs 148/-,0.88839,rights (TERP),-0.1285
+SBIN,SBIN,2014-11-20,Face Value Split Rs.10/- To Re.1/- Per Share,0.1,split/bonus,-0.8979
+SHRIRAMFIN,SHRIRAMFIN,2020-07-09,Rights 3:26 @ Premium Rs 560/-,0.972988,rights (TERP),-0.0482
+SHRIRAMFIN,SHRIRAMFIN,2025-01-10,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8107
+SIEMENS,SIEMENS,2025-04-07,Demerger,0.497144,demerger (price-implied),-0.4293
+STERLITE,STER,2010-06-21,Bonus 1:1 And Face Value Split From Rs.2/- To Re.1/-,0.25,split/bonus,-0.7304
+SUNPHARMA,SUNPHARMA,2010-11-25,Face Value Split From Rs.5/- To Re.1/-,0.2,split/bonus,-0.8003
+SUNPHARMA,SUNPHARMA,2013-07-29,Bonus 1:1,0.5,split/bonus,-0.4905
+SUZLON,SUZLON,2022-10-03,Rights 5:21 @ Premium Rs 3/-,0.874005,rights (TERP),-0.092
+TATACONSUM,TATACONSUM,2024-07-26,Rights 1:26 @ Premium Rs 817/-,0.987693,rights (TERP),-0.0081
+TATAMOTORS,TMPV,2011-09-12,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8087
+TATAMOTORS,TMPV,2015-04-06,Rights 6:109 @ Premium Rs. 448/- Per Share,0.989203,rights (TERP),0.0058
+TATAMOTORS,TMPV,2025-10-14,Demerger,0.605373,demerger (price-implied),-0.4015
+TATAMTRDVR,TATAMTRDVR,2011-09-12,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8103
+TATAMTRDVR,TATAMTRDVR,2015-04-06,Rights 6:109 @ Premium Rs.269/- Per Share,0.989343,rights (TERP),0.0101
+TATAPOWER,TATAPOWER,2011-09-26,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.9022
+TATAPOWER,TATAPOWER,2014-03-19,Rights 7:50 @ Premium Rs.59/- Per Equity Share,0.963553,rights (TERP),-0.0536
+TATASTEEL,TATASTEEL,2022-07-28,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8954
+TCS,TCS,2009-06-16,Bonus 1:1/Div-Rs.5 Per Sh,0.5,split/bonus,-0.4998
+TCS,TCS,2018-05-31,Bonus 1:1 /Dividend- Rs 29 Per Share,0.5,split/bonus,-0.5046
+TECHM,TECHM,2015-03-19,Bonus 1:1 / Face Value Split - From Rs 10/- Per Share To Rs 5/- Per Share,0.25,split/bonus,-0.7546
+TITAN,TITAN,2011-06-23,Bonus 1:1 / Face Value Split From Rs.10/- To Re.1/-,0.05,split/bonus,-0.9467
+TMPV,TMPV,2011-09-12,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8087
+TMPV,TMPV,2015-04-06,Rights 6:109 @ Premium Rs. 448/- Per Share,0.989203,rights (TERP),0.0058
+TMPV,TMPV,2025-10-14,Demerger,0.605373,demerger (price-implied),-0.4015
+TRENT,TRENT,2016-09-12,Face Value Split From Rs 10 To Re 1,0.1,split/bonus,-0.897
+TRENT,TRENT,2026-06-04,Bonus 1:2,0.666667,split/bonus,-0.3335
+UNITDSPR,UNITDSPR,2018-06-15,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.804
+UPL,UPL,2019-07-02,Bonus 1:2,0.666667,split/bonus,-0.308
+UPL,UPL,2024-11-26,Rights 1:8 @ Premium Rs 358/-,0.958852,rights (TERP),-0.0295
+VEDL,VEDL,2026-04-30,Demerger,0.374224,demerger (price-implied),-0.649
+WIPRO,WIPRO,2010-06-15,Bonus 2:3 And Final Dividend Rs.6/- Per Share,0.6,split/bonus,-0.3945
+WIPRO,WIPRO,2013-04-09,Scheme Of Arrangement,0.906863,demerger (price-implied),-0.1228
+WIPRO,WIPRO,2017-06-13,Bonus 1:1,0.5,split/bonus,-0.5079
+WIPRO,WIPRO,2019-03-06,Bonus 1:3,0.75,split/bonus,-0.2369
+WIPRO,WIPRO,2024-12-03,Bonus 1:1,0.5,split/bonus,-0.5011
+YESBANK,YESBANK,2017-09-21,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7995
+ZEEL,ZEEL,2010-10-07,Annual General Meeting / Dividend Rs.2/- Per Share / Scheme Of Arrangement,1.028494,demerger (price-implied),-0.0066
+ZEEL,ZEEL,2010-11-11,Bonus 1:1,0.5,split/bonus,-0.4998
+ABFRL,ABFRL,2020-06-30,Rights 9:77 Partly Paid @ Premium Rs 100/-,0.977493,rights (TERP),-0.0165
+ABFRL,ABFRL,2025-05-22,Demerger,0.36438,demerger (price-implied),-0.6659
+ADANIPOWER,ADANIPOWER,2025-09-22,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.76
+ASHOKLEY,ASHOKLEY,2011-08-02,Bonus 1:1,0.5,split/bonus,-0.4966
+ASHOKLEY,ASHOKLEY,2025-07-16,Bonus 1:1,0.5,split/bonus,-0.5034
+BERGEPAINT,BERGEPAINT,2015-01-08,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4495
+BERGEPAINT,BERGEPAINT,2016-07-15,Bonus 2:5,0.714286,split/bonus,-0.2972
+BERGEPAINT,BERGEPAINT,2023-09-22,Bonus 1:5,0.833333,split/bonus,-0.1115
+BIOCON,BIOCON,2017-06-15,Bonus 2:1,0.333333,split/bonus,-0.6619
+BIOCON,BIOCON,2019-06-12,Bonus 1:1,0.5,split/bonus,-0.5198
+CANBK,CANBK,2017-02-17,Rights 1:10 @ Prem Rs 197/- Per Share,0.969584,rights (TERP),-0.014
+CANBK,CANBK,2024-05-15,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.79
+CGPOWER,CGPOWER,2010-03-08,Bonus 3:4,0.571429,split/bonus,-0.4356
+CGPOWER,CGPOWER,2016-03-15,Scheme Of Arrangement,0.341275,demerger (price-implied),-0.7167
+CHOLAFIN,CHOLAFIN,2019-06-14,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.802
+CUMMINSIND,CUMMINSIND,2011-09-20,Bonus 2:5,0.714286,split/bonus,-0.2973
+EMAMILTD,EMAMILTD,2010-07-21,Dividend Rs.6/- Per Share And Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.5095
+EMAMILTD,EMAMILTD,2013-06-26,Bonus 1:2 And Dividend Rs.8/- Per Share,0.666667,split/bonus,-0.3532
+EMAMILTD,EMAMILTD,2018-06-21,Bonus 1:1/Dividend- Rs 7 Per Share,0.5,split/bonus,-0.5061
+GLAXO,GLAXO,2018-09-11,Bonus 1:1,0.5,split/bonus,-0.513
+GMRAIRPORT,GMRAIRPORT,2009-10-01,Fv Split Rs.2/- To Re.1/-,0.5,split/bonus,-0.4893
+GMRAIRPORT,GMRAIRPORT,2015-03-11,Rights 3:14 @ Premium Rs 14/- Per Share,0.970588,rights (TERP),-0.0149
+GMRAIRPORT,GMRAIRPORT,2022-01-11,Demerger,0.902993,demerger (price-implied),-0.0743
+GODREJCP,GODREJCP,2017-06-22,Bonus 1:1,0.5,split/bonus,-0.5088
+GODREJCP,GODREJCP,2018-09-12,Bonus 1:2,0.666667,split/bonus,-0.3067
+HAL,HAL,2023-09-28,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5077
+HDFCAMC,HDFCAMC,2025-11-26,Bonus 1:1,0.5,split/bonus,-0.498
+HINDZINC,HINDZINC,2011-03-07,Bonus - 1:1 And Face Value Split From Rs. 10 To Rs. 2,0.2,split/bonus,-0.9026
+INDHOTEL,INDHOTEL,2017-10-04,Rights 1:5 @ Premium Rs 74/-,0.934509,rights (TERP),-0.0943
+INDHOTEL,INDHOTEL,2021-11-11,Rights 1:9 @ Premium Rs 149/-,0.969206,rights (TERP),-0.0344
+LODHA,LODHA,2023-05-31,Bonus 1:1,0.5,split/bonus,-0.481
+LTF,LTF,2021-01-21,Rights 17:74@ Premium Rs 55 Per Share,0.912125,rights (TERP),-0.078
+M&MFIN,M&MFIN,2013-02-15,Face Value Split Rs 10 To Rs 2,0.2,split/bonus,-0.8
+M&MFIN,M&MFIN,2020-07-22,Rights 1:1 @ Premium Rs 48/-,0.605309,rights (TERP),-0.3249
+M&MFIN,M&MFIN,2025-05-14,Rights 1:8 @ Premium Rs 192/-,0.972125,rights (TERP),0.0131
+MARICO,MARICO,2015-12-22,Bonus 1:1,0.5,split/bonus,-0.5222
+MAZDOCK,MAZDOCK,2024-12-27,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.51
+MOTHERSON,MOTHERSON,2012-10-03,Bonus 1:2,0.666667,split/bonus,-0.3173
+MOTHERSON,MOTHERSON,2013-12-20,Bonus 1:2,0.666667,split/bonus,-0.3129
+MOTHERSON,MOTHERSON,2017-07-05,Bonus 1:2,0.666667,split/bonus,-0.3337
+MOTHERSON,MOTHERSON,2018-10-30,Bonus 1:2,0.666667,split/bonus,-0.2923
+MOTHERSON,MOTHERSON,2022-01-14,Demerger,0.830281,demerger (price-implied),-0.2098
+MOTHERSON,MOTHERSON,2022-10-03,Bonus 1:2,0.666667,split/bonus,-0.3307
+MOTHERSON,MOTHERSON,2025-07-18,Bonus 1:2,0.666667,split/bonus,-0.3438
+PFC,PFC,2016-08-26,Bonus 1:1,0.5,split/bonus,-0.5148
+PFC,PFC,2023-09-21,Bonus 1:4,0.8,split/bonus,-0.1994
+PIDILITIND,PIDILITIND,2010-03-15,Bonus 1:1,0.5,split/bonus,-0.5265
+PIDILITIND,PIDILITIND,2025-09-23,Bonus 1:1,0.5,split/bonus,-0.5098
+PIIND,PIIND,2011-08-17,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.4892
+PIIND,PIIND,2013-04-12,Face Value Split From Rs.5/- Per Share To Re.1/- Per Share,0.2,split/bonus,-0.7848
+RECLTD,RECLTD,2016-09-28,Bonus 1:1,0.5,split/bonus,-0.4999
+RECLTD,RECLTD,2022-08-17,Bonus 1:3,0.75,split/bonus,-0.2322
+SUNDARMFIN,SUNDARMFIN,2012-12-13,Bonus 1:1,0.5,split/bonus,-0.518
+SUNDARMFIN,SUNDARMFIN,2018-02-01,Scheme Of Arrangement,0.896823,demerger (price-implied),-0.0894
+TATACHEM,TATACHEM,2020-03-04,Demerger,0.434813,demerger (price-implied),-0.5653
+TORNTPHARM,TORNTPHARM,2013-07-23,Bonus 1:1,0.5,split/bonus,-0.4947
+TORNTPHARM,TORNTPHARM,2022-07-08,Bonus 1:1,0.5,split/bonus,-0.5026
+TVSMOTOR,TVSMOTOR,2010-09-08,Bonus 1:1,0.5,split/bonus,-0.4833
+VBL,VBL,2019-07-25,Bonus 1:2,0.666667,split/bonus,-0.3
+VBL,VBL,2021-06-10,Bonus 1:2,0.666667,split/bonus,-0.314
+VBL,VBL,2022-06-06,Bonus 1:2,0.666667,split/bonus,-0.3339
+VBL,VBL,2023-06-15,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4878
+VBL,VBL,2024-09-12,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Rs 2/- Per Share,0.4,split/bonus,-0.5886
+ZYDUSLIFE,ZYDUSLIFE,2010-04-05,Bonus 1: 2,0.666667,split/bonus,-0.3351
+ZYDUSLIFE,ZYDUSLIFE,2015-10-06,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.7955
+360ONE,360ONE,2023-03-02,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.7513
+360ONE,360ONE,2023-03-02,Bonus 1:1,0.5,split/bonus,-0.7513
+APLAPOLLO,APLAPOLLO,2020-12-15,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7954
+APLAPOLLO,APLAPOLLO,2021-09-16,Bonus 1:1,0.5,split/bonus,-0.4857
+ARE&M,ARE&M,2012-09-25,Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.4829
+ARVIND,ARVIND,2018-11-28,Demerger,0.351873,demerger (price-implied),-0.6509
+ASTRAL,ASTRAL,2010-09-15,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.4773
+ASTRAL,ASTRAL,2013-09-05,Face Value Split From Rs.5/- To Rs.2/-,0.4,split/bonus,-0.5567
+ASTRAL,ASTRAL,2014-09-25,Face Value Split From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.5239
+ASTRAL,ASTRAL,2019-09-16,Bonus 1:4,0.8,split/bonus,-0.1691
+ASTRAL,ASTRAL,2021-03-18,Bonus 1:3,0.75,split/bonus,-0.3011
+ASTRAL,ASTRAL,2023-03-14,Bonus 1:3,0.75,split/bonus,-0.262
+AUBANK,AUBANK,2022-06-09,Bonus 1:1,0.5,split/bonus,-0.5126
+AVANTIFEED,AVANTIFEED,2015-11-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8022
+AVANTIFEED,AVANTIFEED,2018-06-26,Bonus 1:2/Face Value Split (Sub-Division) From Rs 2/- Per Share To Re 1/- Per Share,0.333333,split/bonus,-0.6167
+BATAINDIA,BATAINDIA,2015-10-07,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4997
+BDL,BDL,2024-05-24,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4581
+BEML,BEML,2022-09-08,Demerger,0.796106,demerger (price-implied),-0.1641
+BEML,BEML,2025-11-03,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5029
+BHARATFORG,BHARATFORG,2017-09-28,Bonus 1:1,0.5,split/bonus,-0.5077
+BLUESTARCO,BLUESTARCO,2023-06-20,Bonus 1:1,0.5,split/bonus,-0.4819
+CASTROLIND,CASTROL,2010-04-09,Bonus 1:1,0.5,split/bonus,-0.4973
+CASTROLIND,CASTROL,2012-09-04,Bonus 1:1,0.5,split/bonus,-0.5168
+CASTROLIND,CASTROLIND,2017-12-21,Bonus 1:1,0.5,split/bonus,-0.5162
+CESC,CESC,2018-10-30,Composite Scheme Of Arrangement,0.778935,demerger (price-implied),-0.174
+CESC,CESC,2021-09-17,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8955
+CMC,CMC,2011-06-08,Dividend Rs.20/- Per Share And Bonus 1:1,0.5,split/bonus,-0.5072
+COCHINSHIP,COCHINSHIP,2024-01-10,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4
+COFORGE,COFORGE,2025-06-04,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7971
+COLPAL,COLPAL,2015-09-23,Bonus 1:1,0.5,split/bonus,-0.5118
+CONCOR,CONCOR,2013-09-06,Bonus 1:2,0.666667,split/bonus,-0.3292
+CONCOR,CONCOR,2017-04-05,Bonus 1:4,0.8,split/bonus,-0.1987
+CONCOR,CONCOR,2018-06-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4986
+CONCOR,CONCOR,2019-02-04,Bonus 1:4,0.8,split/bonus,-0.2127
+CONCOR,CONCOR,2025-07-04,Bonus 1:4,0.8,split/bonus,-0.1954
+COROMANDEL,COROMANDEL,2010-12-23,Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.4993
+CRISIL,CRISIL,2011-09-28,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.8976
+CUB,CUB,2009-11-12,Rights 1:4 Prem@Rs.5/-,0.833333,rights (TERP),-0.1217
+CUB,CUB,2012-11-22,Rights 1:4 @ Premium Rs.19/- Per Share,0.862142,rights (TERP),-0.1627
+CUB,CUB,2017-07-13,Bonus 1:10,0.909091,split/bonus,-0.0486
+CUB,CUB,2018-07-10,Bonus 1:10,0.909091,split/bonus,-0.0719
+CUB,CUB,2026-06-12,Bonus 1:3,0.75,split/bonus,-0.2146
+CYIENT,CYIENT,2010-06-10,Bonus 1:1,0.5,split/bonus,-0.4857
+DABUR,DABUR,2010-09-08,Bonus 1:1,0.5,split/bonus,-0.5025
+DIXON,DIXON,2021-03-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7888
+ECLERX,ECLERX,2010-07-23,Bonus 1:2,0.666667,split/bonus,-0.3256
+ECLERX,ECLERX,2015-12-17,Bonus 1:3,0.75,split/bonus,-0.2341
+ECLERX,ECLERX,2022-09-21,Bonus 1:2,0.666667,split/bonus,-0.2992
+ECLERX,ECLERX,2026-03-13,Bonus 1:1,0.5,split/bonus,-0.4998
+ENGINERSIN,ENGINERSIN,2016-12-30,Bonus 1:1,0.5,split/bonus,-0.5511
+FEDERALBNK,FEDERALBNK,2013-10-17,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7946
+FEDERALBNK,FEDERALBNK,2015-07-08,Bonus 1:1,0.5,split/bonus,-0.5098
+GODFRYPHLP,GODFRYPHLP,2014-11-28,Face Value Split From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7981
+GODFRYPHLP,GODFRYPHLP,2025-09-16,Bonus 2:1,0.333333,split/bonus,-0.6438
+GODREJPROP,GODREJPROP,2013-08-19,Rights 8:29 @ Premium Rs.315/- Per Equity Share,0.925528,rights (TERP),-0.072
+GODREJPROP,GODREJPROP,2013-11-21,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.501
+GUJGASLTD,GUJENERGY,2019-01-15,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7859
+GUJGASLTD,GUJENERGY,2026-07-02,Demerger,0.852941,demerger (price-implied),-0.1175
+GVT&D,GVT&D,2011-12-14,Scheme Of Arrangement,0.907708,demerger (price-implied),-0.2383
+HATHWAY,HATHWAY,2015-01-06,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8087
+HAVELLS,HAVELLS,2010-10-08,Bonus 1:1,0.5,split/bonus,-0.4987
+HAVELLS,HAVELLS,2014-08-26,Face Value Split From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.781
+HCC,HCC,2010-08-10,Bonus 1:1,0.5,split/bonus,-0.5005
+HCC,HCC,2018-11-20,Rights 49:100 @ Premium Rs 9/-,0.874559,rights (TERP),-0.1409
+HCC,HCC,2024-03-15,Rights 13:118 @ Premium Rs 20/-,0.957148,rights (TERP),-0.0114
+HCC,HCC,2025-12-05,Rights 277:630 @ Premium Rs 11.50/-,0.829992,rights (TERP),-0.2328
+IEX,IEX,2018-10-19,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9009
+IEX,IEX,2021-12-03,Bonus 2:1,0.333333,split/bonus,-0.6494
+INOXWIND,INOXWIND,2024-05-24,Bonus 3:1,0.25,split/bonus,-0.7273
+INOXWIND,INOXWIND,2025-07-29,Rights 5:78 @ Premium Rs 110/-,0.981899,rights (TERP),-0.006
+IPCALAB,IPCALAB,2010-03-22,Fv Split Rs.10 To Rs.2,0.2,split/bonus,-0.7946
+IPCALAB,IPCALAB,2022-01-10,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.5177
+IRCTC,IRCTC,2021-10-28,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7788
+JINDALSAW,JINDALSAW,2009-12-10,Fv Split Rs.10/- To Rs.2/,0.2,split/bonus,-0.8013
+JINDALSAW,JINDALSAW,2011-11-22,Scheme Of Arrangement,0.945205,demerger (price-implied),-0.0759
+JINDALSAW,JINDALSAW,2016-08-25,Scheme Of Arrangement,0.930502,demerger (price-implied),-0.0618
+JINDALSAW,JINDALSAW,2024-10-09,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.5061
+JISLJALEQS,JISLJALEQS,2010-10-29,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7962
+JKLAKSHMI,JKLAKSHMI,2009-12-17,Fv Split Rs.10 To Rs.5,0.5,split/bonus,-0.4857
+JUBLFOOD,JUBLFOOD,2018-06-21,Bonus 1:1,0.5,split/bonus,-0.5018
+JUBLFOOD,JUBLFOOD,2022-04-19,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.808
+KARURVYSYA,KARURVYSYA,2010-09-16,Bonus 2:5,0.714286,split/bonus,-0.3009
+KARURVYSYA,KARURVYSYA,2011-02-17,Rights 2:5 @ Premium Rs.140/- Per Share,0.789672,rights (TERP),-0.2057
+KARURVYSYA,KARURVYSYA,2017-10-12,Rights 1:6 @ Premium Rs 74/-,0.929699,rights (TERP),-0.0985
+KARURVYSYA,KARURVYSYA,2018-08-14,Bonus 1:10,0.909091,split/bonus,-0.0205
+KARURVYSYA,KARURVYSYA,2025-08-26,Bonus 1:5,0.833333,split/bonus,-0.1813
+KTKBANK,KTKBANK,2011-02-25,Rights 2:5 @ Premium Rs 75 Per Share,0.899015,rights (TERP),-0.0858
+KTKBANK,KTKBANK,2016-10-24,Rights 1:2 @ Premium Rs 60/- Per Share,0.793409,rights (TERP),-0.1869
+KTKBANK,KTKBANK,2020-03-17,Bonus 1:10,0.909091,split/bonus,-0.0432
+LALPATHLAB,LALPATHLAB,2025-12-19,Bonus 1:1,0.5,split/bonus,-0.5019
+LAURUSLABS,LAURUSLABS,2020-09-29,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.802
+LICHSGFIN,LICHSGFIN,2010-12-30,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7964
+LICI,LICI,2026-05-29,Bonus 1:1,0.5,split/bonus,-0.5044
+MAXIND,MAXIND,2025-04-29,Rights 19:100 @ Premium Rs 140/-,0.937696,rights (TERP),-0.105
+MCX,MCX,2026-01-02,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7983
+MFSL,MFSL,2016-01-27,Scheme Of Arrangement,0.703986,demerger (price-implied),-0.2608
+MMTC,MMTC,2010-07-29,Bonus 1:1 And Face Value Split From Rs.10 To Re.1,0.05,split/bonus,-0.9391
+MMTC,MMTC,2018-05-03,Bonus 1:2,0.666667,split/bonus,-0.2736
+MOTILALOFS,MOTILALOFS,2024-06-10,Bonus 3:1,0.25,split/bonus,-0.7296
+NATIONALUM,NATIONALUM,2011-03-15,Bonus 1:1 And Face Value Split From Rs.10/- To Rs.5/-,0.25,split/bonus,-0.7727
+NAUKRI,NAUKRI,2010-09-27,Bonus 1:1,0.5,split/bonus,-0.4656
+NAUKRI,NAUKRI,2012-06-22,Annual General Meeting/Dividend-Re.1/- Per Share/Bonus 1:1,0.5,split/bonus,-0.4935
+NAUKRI,NAUKRI,2025-05-07,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8017
+NCC,NCC,2014-09-18,Rights 7 : 6 @ Premium Rs 18/- Per Share,0.597,rights (TERP),-0.3445
+NIACL,NIACL,2018-06-27,Bonus 1:1/ Dividend- Rs 5 Per Share,0.5,split/bonus,-0.5076
+NYKAA,NYKAA,2022-11-10,Bonus 5:1,0.166667,split/bonus,-0.8225
+OIL,OIL,2012-03-29,Bonus 3:2,0.4,split/bonus,-0.615
+OIL,OIL,2017-01-12,Bonus 1:3,0.75,split/bonus,-0.2847
+OIL,OIL,2018-03-27,Bonus 1:2,0.666667,split/bonus,-0.3669
+OIL,OIL,2024-07-02,Bonus 1:2,0.666667,split/bonus,-0.3201
+OPTOCIRCUI,OPTOCIRCUI,2012-03-29,Bonus 3:10,0.769231,split/bonus,-0.1904
+ORISSAMINE,ORISSAMINE,2012-10-29,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.9059
+PATANJALI,PATANJALI,2025-09-11,Bonus 2:1,0.333333,split/bonus,-0.6676
+PCJEWELLER,PCJEWELLER,2017-07-06,Bonus 1:1,0.5,split/bonus,-0.4992
+PCJEWELLER,PCJEWELLER,2024-12-16,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.895
+PERSISTENT,PERSISTENT,2015-03-10,Bonus 1 : 1,0.5,split/bonus,-0.5448
+PERSISTENT,PERSISTENT,2024-03-28,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5081
+PHOENIXLTD,PHOENIXLTD,2024-09-20,Bonus 1:1,0.5,split/bonus,-0.4779
+QUESS,QUESS,2025-04-15,Demerger,0.469499,demerger (price-implied),-0.507
+RAYMOND,RAYMOND,2024-07-11,Demerger,0.60391,demerger (price-implied),-0.3659
+RAYMOND,RAYMOND,2025-05-14,Demerger,0.335613,demerger (price-implied),-0.6476
+REDINGTON,REDINGTON,2010-08-20,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8047
+REDINGTON,REDINGTON,2021-08-18,Bonus 1:1,0.5,split/bonus,-0.5003
+RELIGARE,RELIGARE,2010-01-15,Rights 2:3@Prem Rs.345/-,0.95682,rights (TERP),0.0083
+RENUKA,RENUKA,2010-03-15,Bonus 1:1,0.5,split/bonus,-0.5036
+SADBHAV,SADBHAV,2010-12-07,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.8999
+SCI,SCI,2023-03-31,Demerger,0.775798,demerger (price-implied),-0.2242
+SOBHA,SOBHA,2024-06-19,Rights 6:47 @ Premium Rs 1641/-,0.972811,rights (TERP),-0.0653
+SOUTHBANK,SOUTHBANK,2010-09-23,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.9
+SOUTHBANK,SOUTHBANK,2017-02-16,Rights 1:3 @ Premium Rs 13/- Per Share,0.894124,rights (TERP),-0.1175
+SOUTHBANK,SOUTHBANK,2024-02-27,Rights 1:4 @ Premium Rs 21/-,0.913208,rights (TERP),-0.1186
+SRF,SRF,2021-10-13,Bonus 4:1,0.2,split/bonus,-0.8069
+STAR,STAR,2018-04-06,Scheme Of Arrangement,0.967791,demerger (price-implied),0.0157
+STAR,STAR,2024-12-06,Demerger,0.437729,demerger (price-implied),-0.5404
+STLTECH,STLTECH,2025-04-24,Demerger,0.702656,demerger (price-implied),-0.252
+SUPREMEIND,SUPREMEIND,2010-10-18,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8017
+TATACOMM,TATACOMM,2019-09-17,Demerger,0.6209,demerger (price-implied),-0.3481
+TATAELXSI,TATAELXSI,2017-09-18,Bonus 1:1,0.5,split/bonus,-0.5057
+WABAG,WABAG,2011-08-16,Face Value Split From Rs.5/- To Rs.2/-,0.4,split/bonus,-0.5901
+WABAG,WABAG,2015-03-26,Bonus 1 : 1,0.5,split/bonus,-0.5204
+3IINFOLTD,3IINFOLTD,2025-09-26,Rights 2:9 @ Premium Rs 7/-,0.871546,rights (TERP),-0.0784
+AARTIDRUGS,AARTIDRUGS,2015-03-24,Bonus 1:1,0.5,split/bonus,-0.5279
+AARTIDRUGS,AARTIDRUGS,2020-09-30,Bonus 3:1,0.25,split/bonus,-0.7375
+AARTIIND,AARTIIND,2019-07-03,Scheme Of Demerger,0.957779,demerger (price-implied),-0.0264
+AARTIIND,AARTIIND,2019-09-27,Bonus 1:1,0.5,split/bonus,-0.4926
+AARTIIND,AARTIIND,2021-06-22,Bonus 1:1,0.5,split/bonus,-0.505
+AARTIIND,AARTIIND,2022-10-19,Demerger,0.872735,demerger (price-implied),-0.0826
+ABREL,ABREL,2019-10-11,Demerger,0.442077,demerger (price-implied),-0.5536
+ACUTAAS,ACUTAAS,2025-04-25,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5143
+AEGISLOG,AEGISLOG,2010-08-18,Bonus 2:3,0.6,split/bonus,-0.4274
+AEGISLOG,AEGISLOG,2015-09-16,Face Value Split From Rs 10 To Rs 1,0.1,split/bonus,-0.9011
+AFFLE,AFFLE,2021-10-07,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.79
+AIIL,AIIL,2026-01-13,Bonus 4:1,0.2,split/bonus,-0.7845
+AJANTPHARM,AJANTPHARM,2012-08-09,Face Value Split From Rs. 10/- To Rs. 5/-,0.5,split/bonus,-0.4846
+AJANTPHARM,AJANTPHARM,2013-09-17,Bonus 1:2,0.666667,split/bonus,-0.2722
+AJANTPHARM,AJANTPHARM,2015-03-20,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Rs 2/- Per Share,0.4,split/bonus,-0.6313
+ALEMBICLTD,ALEMBICLTD,2011-04-11,Scheme Of Arrangement,0.460554,demerger (price-implied),-0.6461
+ALEMBICLTD,ALEMBICLTD,2013-09-27,Bonus 1:1,0.5,split/bonus,-0.4728
+ALEMBICLTD,ALEMBICLTD,2019-08-26,Demerger,0.8143,demerger (price-implied),-0.2264
+ANANDRATHI,ANANDRATHI,2025-03-05,Bonus 1:1,0.5,split/bonus,-0.5327
+ANANDRATHI,ANANDRATHI,2026-06-03,Bonus 1:1,0.5,split/bonus,-0.4956
+ANANTRAJ,ANANTRAJ,2020-10-06,Demerger,0.535172,demerger (price-implied),-0.4386
+ANGELONE,ANGELONE,2026-02-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.901
+ASAHIINDIA,ASAHIINDIA,2013-07-26,Rights 13:25 @ Premium Rs 29/- Per Share,0.912607,rights (TERP),-0.077
+ASHIANA,ASHIANA,2013-10-24,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7981
+BALAMINES,BALAMINES,2010-11-18,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8122
+BALKRISIND,BALKRISIND,2010-12-20,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8085
+BALKRISIND,BALKRISIND,2017-12-21,Bonus 1:1,0.5,split/bonus,-0.517
+BBL,BBL,2024-04-24,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5112
+BBOX,BBOX,2012-12-19,Bonus 1:1,0.5,split/bonus,-0.4746
+BBOX,BBOX,2022-05-13,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7601
+BCG,BCG,2021-08-18,Bonus 1:4,0.8,split/bonus,-0.1613
+BCG,BCG,2022-03-15,Bonus 2:3,0.6,split/bonus,-0.3702
+BFUTILITIE,BFUTILITIE,2010-03-11,Scheme Of Arrangement,0.847394,demerger (price-implied),-0.1483
+BIRLAPOWER,BIRLAPOWER,2009-04-24,Fv Split Rs.10/- To Rs.1/,0.1,split/bonus,-0.887
+BIRLAPOWER,BIRLAPOWER,2010-10-20,Bonus 1:5,0.833333,split/bonus,0.0
+BLS,BLS,2017-04-26,Face Value Split From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8985
+BLS,BLS,2022-05-13,Bonus 1:1,0.5,split/bonus,-0.4829
+BLS,BLS,2022-12-08,Bonus 1:1,0.5,split/bonus,-0.4718
+BRIGADE,BRIGADE,2019-08-28,Bonus 1:2,0.666667,split/bonus,-0.2787
+BRIGADE,BRIGADE,2026-06-17,Bonus 1:3,0.75,split/bonus,-0.2144
+BSOFT,BSOFT,2012-03-13,Bonus 1:1,0.5,split/bonus,-0.5427
+BSOFT,BSOFT,2019-01-24,Composite Scheme Of Arrangement,0.623125,demerger (price-implied),-0.4048
+CAMLINFINE,CAMLINFINE,2025-01-08,Rights 5:41 @ Premium Rs 109/-,0.976265,rights (TERP),-0.0343
+CAMS,CAMS,2025-12-05,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.804
+CANFINHOME,CANFINHOME,2015-01-23,Rights 3:10 @ Premium Rs 440/- Per Share,0.915224,rights (TERP),-0.0991
+CANFINHOME,CANFINHOME,2017-10-12,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.794
+CARBORUNIV,CARBORUNIV,2011-10-05,Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.4991
+CASTEXTECH,CASTEXTECH,2011-11-21,Bonus 1:1,0.5,split/bonus,-0.4747
+CCL,CCL,2013-08-19,Bonus 1:1 And Face Value Split From Rs.10/- To Rs.2/-,0.1,split/bonus,-0.8986
+CDSL,CDSL,2024-08-23,Bonus 1:1,0.5,split/bonus,-0.4588
+CEMPRO,CEMPRO,2015-08-21,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9006
+CENTURYTEX,ABREL,2019-10-11,Demerger,0.442077,demerger (price-implied),-0.5536
+CGCL,CGCL,2023-02-17,Rights 11:64 @ Premium Rs 473/-,0.94553,rights (TERP),-0.065
+CGCL,CGCL,2024-03-05,Bonus 1:1,0.5,split/bonus,-0.7
+CGCL,CGCL,2024-03-05,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.7
+CHOICEIN,CHOICEIN,2022-09-22,Bonus 1:1,0.5,split/bonus,-0.4717
+CHOICEIN,CHOICEIN,2024-02-20,Bonus 1:1,0.5,split/bonus,-0.4858
+COHANCE,COHANCE,2020-09-25,Bonus 1:1,0.5,split/bonus,-0.4806
+CUPID,CUPID,2018-10-11,Bonus 1:5,0.833333,split/bonus,-0.0848
+CUPID,CUPID,2024-04-04,Bonus 1:1,0.5,split/bonus,-0.9475
+CUPID,CUPID,2024-04-04,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9475
+CUPID,CUPID,2026-03-09,Bonus 4:1,0.2,split/bonus,-0.7723
+DBREALTY,DBREALTY,2025-07-18,Demerger,0.867089,demerger (price-implied),-0.1522
+DEEPAKFERT,DEEPAKFERT,2020-09-16,Rights 3:20 @ Premium Rs 123/-,0.962088,rights (TERP),-0.0384
+DEEPAKNTR,DEEPAKNTR,2014-06-20,Bonus 1 : 1 / Face Value Split From Rs 10/- Each To Rs 2/- Each,0.1,split/bonus,-0.8936
+DHANBANK,DHANBANK,2024-12-27,Rights 14:25 @ Premium Rs 11/-,0.730343,rights (TERP),-0.2726
+EIDPARRY,EIDPARRY,2010-12-23,Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.4999
+EIHOTEL,EIHOTEL,2011-02-21,Rights 5:11 @ Premium Rs.64/- Per Share,0.879623,rights (TERP),-0.1623
+EIHOTEL,EIHOTEL,2020-09-22,Rights 8:85 @ Premium Rs 63/-,0.978765,rights (TERP),-0.064
+ELECON,ELECON,2024-07-19,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4995
+ELGIEQUIP,ELGIEQUIP,2010-12-14,Bonus 1:1,0.5,split/bonus,-0.5066
+ELGIEQUIP,ELGIEQUIP,2020-09-24,Bonus 1:1,0.5,split/bonus,-0.4939
+EPL,EPL,2018-06-20,Bonus 1:1,0.5,split/bonus,-0.5099
+GABRIEL,GABRIEL,2012-07-12,Bonus 1:1,0.5,split/bonus,-0.497
+GAYAPROJ,GAYAPROJ,2012-02-22,Rights 1:1 @ Premium Rs.110 Per Share,0.823054,rights (TERP),-0.1703
+GAYAPROJ,GAYAPROJ,2017-02-10,Face Value Split From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7939
+GAYAPROJ,GAYAPROJ,2018-01-30,Scheme Of Arrangement,0.966406,demerger (price-implied),-0.0336
+GEOJITBNPP,GEOJITFSL,2024-10-07,Rights 1:6 @ Premium Rs 49/-,0.899521,rights (TERP),-0.1893
+GHCL,GHCL,2023-04-06,Demerger,0.938794,demerger (price-implied),-0.0488
+GICRE,GICRE,2018-07-12,Bonus 1:1/Dividend- Rs 13.5 Per Share,0.5,split/bonus,-0.5147
+GODREJIND,GODREJIND,2015-01-05,Bonus 1 : 1250,0.999201,split/bonus,-0.0025
+GPIL,GPIL,2021-10-26,Bonus 1:1,0.5,split/bonus,-0.725
+GPIL,GPIL,2021-10-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.725
+GPIL,GPIL,2024-10-04,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.8024
+GRANULES,GRANULES,2015-03-23,Face Value Split Rs 10 To Rs 1,0.1,split/bonus,-0.8964
+GRAVITA,GRAVITA,2012-05-25,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7901
+GREENPLY,GREENPLY,2014-11-26,Scheme Of Demerger,0.854991,demerger (price-implied),-0.145
+GREENPLY,GREENPLY,2016-01-06,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.7963
+HBLENGINE,HBLENGINE,2009-11-24,Fv Split Rs.10/- To Re.1/,0.1,split/bonus,-0.9005
+HCL-INSYS,HCL-INSYS,2017-10-31,Rights 10:21 @ Premium Rs 45/-,0.97921,rights (TERP),-0.0062
+HEG,HEGAM,2024-10-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8069
+HEG,HEGAM,2026-09-07,Demerger,0.35702,demerger (price-implied),-0.6262
+HEGAM,HEGAM,2024-10-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8069
+HEGAM,HEGAM,2026-09-07,Demerger,0.35702,demerger (price-implied),-0.6262
+HERITGFOOD,HERITGFOOD,2013-07-26,Bonus 1:1,0.5,split/bonus,-0.5433
+HERITGFOOD,HERITGFOOD,2017-10-10,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4917
+HERITGFOOD,HERITGFOOD,2023-01-20,Rights 1:1 @ Premium Rs 0/-,0.5,rights (TERP),-0.4684
+HEXT,HEXAWARE,2011-02-24,Dividend Rs 1.40 Per Share / Bonus 1:1,0.5,split/bonus,-0.5477
+HSCL,HSCL,2010-11-08,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.8951
+HSIL,AGI,2019-08-19,Demerger,0.276772,demerger (price-implied),-0.7371
+HTMEDIA,HTMEDIA,2019-04-09,Demerger,0.89568,demerger (price-implied),-0.1486
+IGARASHI,IGARASHI,2018-09-27,Bonus 25:202,0.889868,split/bonus,-0.0209
+IGL,IGL,2017-11-09,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8022
+IGL,IGL,2025-01-31,Bonus 1:1,0.5,split/bonus,-0.49
+IIFL,IIFL,2019-05-30,Scheme Of Arrangement,0.502934,demerger (price-implied),-0.5221
+IIFL,IIFL,2024-04-23,Rights 1:9 @ Premium Rs 298/-,0.970885,rights (TERP),-0.0243
+INDIAGLYCO,INDIAGLYCO,2025-08-12,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.5281
+INDIAGLYCO,INDIAGLYCO,2026-09-02,Demerger,0.202393,demerger (price-implied),-0.7875
+INDIAMART,INDIAMART,2023-06-21,Bonus 1:1,0.5,split/bonus,-0.4944
+INTELLECT,INTELLECT,2017-07-17,Rights 5:22 @ Premium Rs 81/-,0.929669,rights (TERP),-0.0949
+IRB,IRB,2023-02-22,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8855
+IRB,IRB,2026-03-30,Bonus 1:1,0.5,split/bonus,-0.4591
+IRCON,IRCON,2020-04-03,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.769
+IRCON,IRCON,2021-05-20,Bonus 1:1,0.5,split/bonus,-0.4766
+ITDCEM,CEMPRO,2015-08-21,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9006
+J&KBANK,J&KBANK,2014-09-04,Face Value Split - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8932
+JAIBALAJI,JAIBALAJI,2025-01-17,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7982
+JBMA,JBMA,2014-10-08,Bonus 1:1 And Face Value Split Rs.10/- To Rs.5/- Per Share,0.25,split/bonus,-0.7601
+JBMA,JBMA,2022-02-21,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Rs 2/- Per Share,0.4,split/bonus,-0.5849
+JBMA,JBMA,2025-01-31,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4682
+JKTYRE,JKTYRE,2014-12-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7647
+JSL,JSL,2015-11-19,Composite Scheme Of Arrangement,0.372671,demerger (price-implied),-0.6087
+JYOTISTRUC,JYOTISTRUC,2024-03-21,Rights 6:37 @ Premium Rs 13/-,0.938485,rights (TERP),-0.0968
+JYOTISTRUC,JYOTISTRUC,2025-02-10,Rights 9:26 @ Premium Rs 14/-,0.876686,rights (TERP),-0.1584
+KAJARIACER,KAJARIACER,2016-10-04,Face Value Split From Rs 2 To Re 1,0.5,split/bonus,-0.4999
+KCP,KCP,2010-09-02,1st Interim Dividend Rs.2.50 Per Share And Face Value Split From Rs.10/- To Re.1/- (Purpose Revised),0.1,split/bonus,-0.8984
+KEC,KEC,2010-12-30,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.802
+KESORAMIND,KESORAMIND,2013-05-15,Rights 7:5@Premium Rs.55 Per Share/Annual General Meeting / Dividend Re.1/- Per Equity Share (Purpose Revised),0.732603,rights (TERP),-0.2137
+KESORAMIND,KESORAMIND,2019-12-24,Demerger,0.928014,demerger (price-implied),-0.0703
+KESORAMIND,KESORAMIND,2021-09-16,Rights 133:274 @ Premium Rs 40/-,0.819022,rights (TERP),-0.1333
+KESORAMIND,KESORAMIND,2025-03-10,Demerger,0.049971,demerger (price-implied),-0.9526
+KIMS,KIMS,2024-09-13,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7981
+KITEX,KITEX,2017-06-22,Bonus 2:5,0.714286,split/bonus,-0.2624
+KITEX,KITEX,2025-01-17,Bonus 2:1,0.333333,split/bonus,-0.65
+KKCL,KKCL,2021-12-16,Bonus 4:1,0.2,split/bonus,-0.7997
+KNRCON,KNRCON,2021-02-03,Bonus 1:1,0.5,split/bonus,-0.5088
+KPIL,KPIL,2010-09-08,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7939
+KPRMILL,KPRMILL,2021-09-24,Face Value Split (Sub-Division) - From Rs 5/- Per Share To Re 1/- Per Share,0.2,split/bonus,-0.7801
+KSB,KSB,2011-04-18,Bonus 1:1,0.5,split/bonus,-0.4892
+KSB,KSB,2024-07-25,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8006
+KWALITY,KWALITY,2010-06-15,Bonus 5:7,0.583333,split/bonus,-0.1491
+LGBBROSLTD,LGBBROSLTD,2014-07-04,Annual General Meeting / Final Dividend - Rs 7/- Per Share / Bonus 1 : 1,0.5,split/bonus,-0.4968
+LGBBROSLTD,LGBBROSLTD,2018-06-14,Bonus 1:1,0.5,split/bonus,-0.4816
+LUXIND,LUXIND,2016-06-06,Face Value Split From Rs 10 To Rs 2,0.2,split/bonus,-0.8018
+MAHSEAMLES,MAHSEAMLES,2022-11-25,Bonus 1:1,0.5,split/bonus,-0.5026
+MAYURUNIQ,MAYURUNIQ,2013-09-25,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.4677
+MAYURUNIQ,MAYURUNIQ,2014-03-28,Bonus 1 : 1,0.5,split/bonus,-0.4698
+METROPOLIS,METROPOLIS,2026-03-20,Bonus 3:1,0.25,split/bonus,-0.7581
+MINDACORP,MINDACORP,2012-06-13,Bonus 1:1,0.5,split/bonus,-0.4
+MINDACORP,MINDACORP,2015-01-05,Bonus 1:1 / Face Value Split From Rs 10/- Per Share To Rs 2/- Per Share,0.1,split/bonus,-0.895
+MIRCELECTR,ONIDA,2014-09-18,Rights 5:13 @Premium Rs.5,0.86042,rights (TERP),-0.1194
+MIRCELECTR,ONIDA,2025-06-30,Rights 3:14 @ Premium Rs 9/-,0.91712,rights (TERP),-0.1255
+MONNETISPA,MONNETISPA,2018-09-14,Capital Reduction Rs 10 To Rs 3.30 / Consolidation Rs 3.30 To Rs.10,3.030303,split/bonus,0.573
+MSUMI,MSUMI,2022-11-16,Bonus 2:5,0.714286,split/bonus,-0.2693
+MSUMI,MSUMI,2025-07-18,Bonus 1:2,0.666667,split/bonus,-0.325
+MVL,MVL,2009-09-18,Fv Split Rs.10/- To Rs.2/,0.2,split/bonus,-0.8017
+MVL,MVL,2010-11-16,Face Value Split From Rs.2/- To Re.1/-,0.5,split/bonus,-0.4583
+NATCOPHARM,NATCOPHARM,2015-11-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7891
+NATCOPHARM,NATCOPHARM,2026-10-01,Rights 2:21 @ Premium Rs 748/-,0.991646,rights (TERP),-0.0075
+NAVA,NAVA,2016-09-01,Bonus 1:1,0.5,split/bonus,-0.5216
+NAVA,NAVA,2025-01-20,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4967
+NAVINFLUOR,NAVINFLUOR,2017-07-19,Face Value Split From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7957
+NAVNETEDUL,NAVNETEDUL,2009-09-08,Bonus 3:2,0.4,split/bonus,-0.5651
+NBCC,NBCC,2016-06-02,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7967
+NBCC,NBCC,2017-02-17,Bonus 1:2,0.666667,split/bonus,-0.3946
+NBCC,NBCC,2018-04-25,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4855
+NBCC,NBCC,2024-10-07,Bonus 1:2,0.666667,split/bonus,-0.3147
+NETWORK18,NETWORK18,2012-09-11,Rights 307:50 @ Premium Rs.25/- Per Share,0.853111,rights (TERP),-0.0232
+NEULANDLAB,NEULANDLAB,2012-03-21,Rights 5:12 @ Premium Rs.35/- Per Share,0.830358,rights (TERP),-0.0091
+NRBBEARING,NRBBEARING,2010-09-03,Bonus 1:1,0.5,split/bonus,-0.4944
+NRBBEARING,NRBBEARING,2012-10-23,Scheme Of Arrangement,0.919515,demerger (price-implied),-0.0992
+NUVAMA,NUVAMA,2025-12-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8039
+PARSVNATH,PARSVNATH,2010-10-18,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.5062
+PCBL,PCBL,2018-04-19,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.79
+PCBL,PCBL,2022-04-11,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4593
+PEACOCKIND,PILITA,2016-08-24,Face Value Split (Sub-Division) - From Rs 4/- Per Share To Re 1/- Per Share,0.25,split/bonus,-0.738
+PETRONET,PETRONET,2017-07-03,Bonus 1:1,0.5,split/bonus,-0.5043
+PFOCUS,PFOCUS,2010-10-29,Face Value Split From Rs.10/- To Re.1/-,0.1,split/bonus,-0.9027
+PGEL,PGEL,2024-07-10,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9008
+PGIL,PGIL,2014-06-02,Scheme Of Arrangement,0.707403,demerger (price-implied),-0.2913
+PGIL,PGIL,2024-01-05,Face Value Split (Sub-Division) - From Rs10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4949
+PGIL,PGIL,2026-09-11,Bonus 1:1,0.5,split/bonus,-0.5006
+PIRAMALFIN,DHFL,2015-09-09,Bonus 1:1,0.5,split/bonus,-0.4856
+PNBGILTS,PNBGILTS,2013-07-03,Bonus 1:3,0.75,split/bonus,-0.2182
+PNBHOUSING,PNBHOUSING,2023-04-05,Rights 29:54@ Premium Rs 265/-,0.821781,rights (TERP),-0.1437
+POLYMED,POLYMED,2013-07-09,Bonus 1:1,0.5,split/bonus,-0.4615
+POLYMED,POLYMED,2015-02-02,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share,0.5,split/bonus,-0.4942
+POLYMED,POLYMED,2017-03-24,Bonus 1:1,0.5,split/bonus,-0.5463
+POLYPLEX,POLYPLEX,2010-12-23,Bonus 1:1,0.5,split/bonus,-0.4933
+POONAWALLA,POONAWALLA,2010-08-13,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7912
+PPLPHARMA,PPLPHARMA,2023-08-02,Rights 5:46 @ Premium Rs 71/-,0.967351,rights (TERP),-0.0329
+PRAKASH,PRAKASH,2019-04-23,Demerger,0.861504,demerger (price-implied),-0.1119
+PRICOLLTD,PRICOLLTD,2020-11-24,Rights 2:7 @ Premium Rs 29/-,0.885275,rights (TERP),-0.1551
+PRIVISCL,PRIVISCL,2020-08-21,Demerger,0.769568,demerger (price-implied),-0.192
+PVRINOX,PVRINOX,2020-07-09,Rights 7:94 @ Premium Rs 774/-,0.981284,rights (TERP),-0.0167
+RAMCOSYS,RAMCOSYS,2014-04-22,Rights 1:2 @ Premium Rs.145/- Per Equity Share,0.934887,rights (TERP),-0.0458
+RELAXO,RELAXO,2013-11-22,Face Value Split From Rs.5/- To Re.1/-,0.2,split/bonus,-0.7835
+RELAXO,RELAXO,2015-07-01,Bonus 1:1,0.5,split/bonus,-0.4855
+RELAXO,RELAXO,2019-06-26,Bonus 1:1,0.5,split/bonus,-0.4816
+RITES,RITES,2019-08-08,Bonus  1:4,0.8,split/bonus,-0.207
+RITES,RITES,2024-09-20,Bonus 1:1,0.5,split/bonus,-0.4539
+RKFORGE,RKFORGE,2022-03-14,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7849
+SARDAEN,SARDAEN,2023-08-04,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8981
+SAREGAMA,SAREGAMA,2022-04-26,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.9001
+SAREGAMA,SAREGAMA,2023-07-27,Demerger,0.936431,demerger (price-implied),-0.0298
+SCHAEFFLER,SCHAEFFLER,2022-02-08,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8024
+SHILPAMED,SHILPAMED,2013-07-16,Annual General Meeting / Dividend - Rs 1.30/- Per Share / Bonus 1:2,0.666667,split/bonus,-0.3264
+SHILPAMED,SHILPAMED,2015-11-06,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.5012
+SHILPAMED,SHILPAMED,2025-10-03,Bonus 1:1,0.5,split/bonus,-0.5057
+SHOPERSTOP,SHOPERSTOP,2011-01-12,Face Value Split From Rs.10/- To Rs.5/-,0.5,split/bonus,-0.5153
+SHOPERSTOP,SHOPERSTOP,2020-11-19,Rights 17:70 @ Premium Rs 135/-,0.941669,rights (TERP),-0.0582
+SHRIPISTON,SHRIPISTON,2023-07-24,Bonus 1:1,0.5,split/bonus,-0.475
+SOMANYCERA,SOMANYCERA,2010-11-11,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.8024
+SPLPETRO,SPLPETRO,2023-01-06,Face Value Split (Sub-Division) - From Rs 4/- Per Share To Rs 2/- Per Share,0.5,split/bonus,-0.5107
+SWANCORP,SWANCORP,2014-02-03,Face Value Split From Rs 2/- To Re 1/-,0.5,split/bonus,-0.4694
+SYNGENE,SYNGENE,2019-06-11,Bonus 1:1,0.5,split/bonus,-0.4915
+TARIL,TARIL,2013-06-13,Bonus 1:9,0.9,split/bonus,-0.0735
+TARIL,TARIL,2017-09-28,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8964
+TARIL,TARIL,2025-02-14,Bonus 1:1,0.5,split/bonus,-0.525
+TATACOFFEE,TATACOFFEE,2015-01-23,Face Value Split (Sub-Division): From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8982
+TATAINVEST,TATAINVEST,2025-10-14,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8957
+TDPOWERSYS,TDPOWERSYS,2022-10-31,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7967
+TDPOWERSYS,TDPOWERSYS,2026-08-24,Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share,0.5,split/bonus,-0.4917
+TFCILTD,TFCILTD,2025-09-19,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.801
+THANGAMAYL,THANGAMAYL,2023-07-17,Bonus 1:1,0.5,split/bonus,-0.4643
+THANGAMAYL,THANGAMAYL,2025-02-11,Rights 2:15 @ Premium Rs 1390/-,0.968218,rights (TERP),-0.05
+THOMASCOOK,THOMASCOOK,2019-12-05,Demerger,0.467559,demerger (price-implied),-0.5555
+TI,TI,2010-09-28,Bonus 2:1,0.333333,split/bonus,-0.6584
+TITAGARH,TITAGARH,2015-04-23,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8061
+TRIDENT,TRIDENT,2019-12-13,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 1/- Per Share,0.1,split/bonus,-0.8877
+TRIVENI,TRIVENI,2011-05-03,Scheme Of Arrangement,0.701455,demerger (price-implied),-0.5996
+TRIVENI,TRIVENI,2026-07-22,Demerger,0.614952,demerger (price-implied),-0.4157
+TTML,TTML,2013-08-07,Bonus 2:15,0.882353,split/bonus,-0.0312
+UNICHEMLAB,UNICHEMLAB,2010-10-21,Interim Dividend Rs.3/- Per Share And Face Value Split From Rs.5/- To Rs.2/- (Purpose Revised),0.4,split/bonus,-0.5834
+UNOMINDA,UNOMINDA,2016-09-12,Face Value Split From Rs 10 To Rs 2,0.2,split/bonus,-0.809
+UNOMINDA,UNOMINDA,2018-07-11,Bonus 2:1/Dividend- Rs 1.60 Per Share,0.333333,split/bonus,-0.6644
+UNOMINDA,UNOMINDA,2020-08-14,Rights 1:27 @ Premium Rs 248/-,0.994749,rights (TERP),-0.0194
+UNOMINDA,UNOMINDA,2022-07-07,Bonus 1:1,0.5,split/bonus,-0.4877
+V2RETAIL,V2RETAIL,2026-03-25,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8981
+VAIBHAVGBL,VAIBHAVGBL,2021-05-07,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7718
+VENKEYS,VENKEYS,2015-12-21,Bonus 1:2,0.666667,split/bonus,-0.2775
+VESUVIUS,VESUVIUS,2025-06-10,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8951
+VIPIND,VIPIND,2011-10-31,Face Value Split From Rs.10/- To Rs.2/-,0.2,split/bonus,-0.7974
+VTL,VTL,2022-03-24,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.7954
+WELCORP,WELCORP,2014-02-18,Scheme Of Arrangement,0.975347,demerger (price-implied),-0.0262
+WELSPUNLIV,WELSPUNLIV,2009-06-19,Scheme Of Arrangement,0.926999,demerger (price-implied),-0.0684
+WELSPUNLIV,WELSPUNLIV,2016-03-21,Interim Div - Rs 6/- Per Share + Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share,0.1,split/bonus,-0.8961
+WOCKPHARMA,WOCKPHARMA,2022-03-08,Rights 3:10@ Premium Rs 220 Per Share,0.918442,rights (TERP),-0.0942
+ZENSARTECH,ZENSARTECH,2010-07-21,Dividend Rs.5.50 Per Share And Bonus 1:1,0.5,split/bonus,-0.5009
+ZENSARTECH,ZENSARTECH,2018-09-07,Face Value Split (Sub-Division) - From Rs 10 /- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.8053
+ZFCVINDIA,ZFCVINDIA,2026-06-24,Bonus 5:1,0.166667,split/bonus,-0.8346
+ZYDUSWELL,ZYDUSWELL,2025-09-18,Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share,0.2,split/bonus,-0.798

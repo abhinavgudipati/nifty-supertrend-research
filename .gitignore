@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.streamlit/
+
+# Raw and derived data are rebuilt by the scripts (see README)
+research/data/bhavcopy/
+research/data/prices/
+research/data/nse_series/
+research/data/nse_series_tr/
+research/data/*.parquet
+research/data/*membership*.csv
+research/data/corporate_actions.csv
+research/data/nifty50_constituents.csv
+research/data/*.log
+supertrend-backtest/presets/
+
+# Local outputs
+*.zip
+trades_*.csv
+scan_results.csv
+research/results/*.log
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz

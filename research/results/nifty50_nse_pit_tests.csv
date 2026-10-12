@@ -1,0 +1,3 @@
+Period,Mean daily excess (bp),Newey-West t,Sharpe diff,Sharpe diff 95% CI,Bootstrap p
+In-sample,-2.54031437458794,-1.772638982733031,-0.28379225028200694,"[-0.65, 0.06]",0.102
+Out-of-sample,-2.8014125171580555,-1.4633129662633215,0.016130049273452518,"[-0.56, 0.63]",0.916
